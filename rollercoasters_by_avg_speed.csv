@@ -1,0 +1,140 @@
+category,park_id,theme,rollercoaster_type,avg_speed
+Low,3,Mystic Mountain,Wooden Roller Coaster,9.00
+Low,4,Pacific Pyramids,Compact Inverted Coaster,9.00
+Low,5,Mel's World,Spinning Wild Mouse,1.00
+Low,5,Mel's World,Dinghy Slide,8.00
+Low,6,Paradise Pier,Dinghy Slide,9.00
+Low,6,Paradise Pier,Stand Up Roller Coaster,9.00
+Low,7,Gentle Glen,Dinghy Slide,9.00
+Low,8,Jolly Jungle,Virginia Reel,9.00
+Low,17,Butterfly Dam,Dinghy Slide,9.00
+Low,20,Arid Heights,Water Coaster,9.00
+Low,23,Whispering Cliffs,Dinghy Slide,8.00
+Low,26,Paradise Pier,Looping Roller Coaster,1.00
+Medium,0,Barony Bridge,Bobsleigh Coaster,12.00
+Medium,0,Barony Bridge,Dinghy Slide,11.00
+Medium,0,Barony Bridge,Wild Mouse,11.00
+Medium,0,Barony Bridge,Wooden Roller Coaster,15.00
+Medium,1,Forest Frontiers,Junior Roller Coaster,13.00
+Medium,2,Haunted Harbour,Side-Friction Roller Coaster,10.00
+Medium,2,Haunted Harbour,Wooden Wild Mouse,12.00
+Medium,3,Mystic Mountain,Stand Up Roller Coaster,14.00
+Medium,4,Pacific Pyramids,Looping Roller Coaster,13.00
+Medium,4,Pacific Pyramids,Stand Up Roller Coaster,12.00
+Medium,4,Pacific Pyramids,Vertical Drop Coaster,13.00
+Medium,5,Mel's World,Bobsleigh Coaster,15.00
+Medium,5,Mel's World,Suspended Swinging Coaster,13.00
+Medium,5,Mel's World,Looping Roller Coaster,12.00
+Medium,5,Mel's World,Vertical Drop Coaster,12.00
+Medium,6,Paradise Pier,Looping Roller Coaster,11.00
+Medium,7,Gentle Glen,Junior Roller Coaster,12.00
+Medium,7,Gentle Glen,Mini Roller Coaster,11.00
+Medium,7,Gentle Glen,Virginia Reel,10.00
+Medium,8,Jolly Jungle,Heartline Twister Coaster,10.00
+Medium,8,Jolly Jungle,Wooden Roller Coaster,14.00
+Medium,9,Factory Capers,Looping Roller Coaster,12.00
+Medium,9,Factory Capers,Spiral Coaster,15.00
+Medium,9,Factory Capers,Wooden Roller Coaster,13.00
+Medium,10,Karts And Coasters,Mine Train Coaster,11.00
+Medium,10,Karts And Coasters,Vertical Drop Coaster,14.00
+Medium,11,Three Monkeys Park,Wooden Roller Coaster,14.00
+Medium,12,Crumbly Woods,Mini Roller Coaster,14.00
+Medium,12,Crumbly Woods,Wooden Wild Mouse,11.00
+Medium,12,Crumbly Woods,Corkscrew Roller Coaster,11.00
+Medium,12,Crumbly Woods,Dinghy Slide,11.00
+Medium,12,Crumbly Woods,Stand Up Twister Roller Coaster,15.00
+Medium,12,Crumbly Woods,Wooden Roller Coaster,13.00
+Medium,13,Millennium Mines,Wooden Roller Coaster,12.00
+Medium,14,Canry Mines,Vertical Drop Coaster,11.00
+Medium,14,Canry Mines,Wooden Roller Coaster,15.00
+Medium,15,Iceberg Islands,Looping Roller Coaster,14.00
+Medium,16,Fun Fortress,Stand Up Roller Coaster,15.00
+Medium,16,Fun Fortress,Wooden Roller Coaster,13.00
+Medium,17,Butterfly Dam,Corkscrew Roller Coaster,11.00
+Medium,18,Coaster Canyon,Compact Inverted Coaster,12.00
+Medium,18,Coaster Canyon,Hypercoaster,10.00
+Medium,18,Coaster Canyon,Looping Roller Coaster,10.00
+Medium,18,Coaster Canyon,Twister Coaster,14.00
+Medium,19,Razor Rocks,Wooden Wild Mouse,14.00
+Medium,19,Razor Rocks,Compact Inverted Coaster,12.00
+Medium,19,Razor Rocks,Hypercoaster,15.00
+Medium,19,Razor Rocks,Mine Train Coaster,14.00
+Medium,19,Razor Rocks,Spiral Coaster,13.00
+Medium,19,Razor Rocks,Wooden Roller Coaster,12.00
+Medium,20,Arid Heights,Junior Roller Coaster,13.00
+Medium,20,Arid Heights,Mini Roller Coaster,13.00
+Medium,20,Arid Heights,Side-Friction Roller Coaster,11.00
+Medium,20,Arid Heights,Corkscrew Roller Coaster,13.00
+Medium,20,Arid Heights,Hypercoaster,15.00
+Medium,21,Vertigo Views,Corkscrew Roller Coaster,13.00
+Medium,21,Vertigo Views,Spiral Coaster,14.00
+Medium,21,Vertigo Views,Compact Inverted Coaster,13.00
+Medium,21,Vertigo Views,Wooden Roller Coaster,15.00
+Medium,22,Crater Lake,Mini Roller Coaster,12.00
+Medium,22,Crater Lake,Inverted Hairpin Coaster,12.00
+Medium,22,Crater Lake,Wooden Roller Coaster,14.00
+Medium,22,Crater Lake,Mine Train Coaster,10.00
+Medium,23,Whispering Cliffs,Junior Roller Coaster,13.00
+Medium,23,Whispering Cliffs,Suspended Swinging Coaster,10.00
+Medium,23,Whispering Cliffs,Wooden Roller Coaster,11.00
+Medium,23,Whispering Cliffs,Mine Train Coaster,14.00
+Medium,24,Bumbly Bazaar,Hypercoaster,14.00
+Medium,24,Bumbly Bazaar,Mini Roller Coaster,12.00
+Medium,24,Bumbly Bazaar,Hyper-Twister Roller Coaster,14.00
+Medium,24,Bumbly Bazaar,Wooden Roller Coaster,10.00
+Medium,25,Hydro Hills,Looping Roller Coaster,14.00
+Medium,25,Hydro Hills,Twister Coaster,15.00
+Medium,25,Hydro Hills,Lay-down Roller Coaster,10.00
+Medium,25,Hydro Hills,Compact Inverted Coaster,12.00
+Medium,26,Paradise Pier,Compact Inverted Coaster,12.00
+Medium,26,Paradise Pier,Mini Roller Coaster,14.00
+Medium,26,Paradise Pier,Corkscrew Roller Coaster,14.00
+Medium,26,Paradise Pier,Junior Roller Coaster,12.00
+Medium,27,Swamp Cove,Mine Train Coaster,10.00
+Medium,27,Swamp Cove,Corkscrew Roller Coaster,12.00
+Medium,28,Roman Village,Wooden Roller Coaster,14.00
+Medium,29,Adrenaline Heights,Suspended Swinging Coaster,15.00
+Medium,29,Adrenaline Heights,Inverted Roller Coaster,14.00
+Medium,29,Adrenaline Heights,Hypercoaster,15.00
+Medium,29,Adrenaline Heights,Floorless Roller Coaster,15.00
+Medium,30,Botany Breakers,Stand Up Roller Coaster,15.00
+Medium,30,Botany Breakers,Spiral Coaster,13.00
+Medium,30,Botany Breakers,Hypercoaster,15.00
+High,2,Haunted Harbour,Wooden Roller Coaster,17.00
+High,5,Mel's World,Inverted Roller Coaster,20.00
+High,8,Jolly Jungle,Lay-down Roller Coaster,17.00
+High,10,Karts And Coasters,Wooden Roller Coaster,23.00
+High,11,Three Monkeys Park,Looping Roller Coaster,17.00
+High,11,Three Monkeys Park,Looping Roller Coaster,16.00
+High,12,Crumbly Woods,Corkscrew Roller Coaster,20.00
+High,15,Iceberg Islands,Bobsleigh Coaster,16.00
+High,16,Fun Fortress,Looping Roller Coaster,21.00
+High,17,Butterfly Dam,Vertical Drop Coaster,16.00
+High,19,Razor Rocks,Air Powered Vertical Coaster,44.00
+High,19,Razor Rocks,Floorless Roller Coaster,18.00
+High,19,Razor Rocks,Giga Coaster,22.00
+High,19,Razor Rocks,Vertical Drop Coaster,16.00
+High,20,Arid Heights,Wooden Roller Coaster,17.00
+High,20,Arid Heights,Looping Roller Coaster,17.00
+High,20,Arid Heights,Twister Coaster,23.00
+High,21,Vertigo Views,Hypercoaster,21.00
+High,21,Vertigo Views,Looping Roller Coaster,19.00
+High,21,Vertigo Views,Reverse Freefall Coaster,39.00
+High,21,Vertigo Views,Inverted Roller Coaster,16.00
+High,21,Vertigo Views,Giga Coaster,16.00
+High,21,Vertigo Views,Mine Train Coaster,16.00
+High,25,Hydro Hills,Suspended Swinging Coaster,16.00
+High,25,Hydro Hills,Wooden Roller Coaster,16.00
+High,27,Swamp Cove,Inverted Roller Coaster,19.00
+High,27,Swamp Cove,Inverted Roller Coaster,20.00
+High,27,Swamp Cove,Spiral Coaster,18.00
+High,27,Swamp Cove,Wooden Roller Coaster,16.00
+High,28,Roman Village,Lay-down Roller Coaster,16.00
+High,28,Roman Village,Looping Roller Coaster,17.00
+High,29,Adrenaline Heights,Lay-down Roller Coaster,16.00
+High,29,Adrenaline Heights,Hyper-Twister Roller Coaster,16.00
+High,30,Botany Breakers,Vertical Drop Coaster,16.00
+High,30,Botany Breakers,Corkscrew Roller Coaster,17.00
+High,30,Botany Breakers,Twister Coaster,18.00
+High,30,Botany Breakers,Mine Train Coaster,16.00
+High,30,Botany Breakers,Wooden Roller Coaster,18.00
